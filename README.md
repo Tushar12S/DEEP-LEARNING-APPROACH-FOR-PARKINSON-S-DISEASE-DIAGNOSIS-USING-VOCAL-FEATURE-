@@ -1,4 +1,4 @@
-# Parkinson's Disease Detection Tool
+# Parkinson's Disease Detection 
 
 A machine learning-based application for early detection of Parkinson's Disease through voice analysis using MFCC (Mel-frequency cepstral coefficients) features.
 
